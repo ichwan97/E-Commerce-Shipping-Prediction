@@ -1,4 +1,4 @@
-# Prediction-E-Commerce-Shipping
+# E-Commerce Shipping Prediction
 This is a code implementation of the published Medium Article: *Prediction on time or not e-commerce shipping*  
 
 
